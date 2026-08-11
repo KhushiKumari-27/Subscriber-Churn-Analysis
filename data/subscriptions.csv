@@ -1,0 +1,1001 @@
+customer_id,tenure_months,contract_type,internet_service,online_security,tech_support,join_date,churn
+CUST0001,36,Month-to-month,DSL,Yes,No,2023-04-22,Yes
+CUST0002,58,Month-to-month,DSL,Yes,No,2023-11-21,Yes
+CUST0003,6,One year,,No,No,2024-01-11,No
+CUST0004,30,Two year,DSL,No,Yes,2023-07-01,No
+CUST0005,32,Month-to-month,,No,No,2023-10-27,No
+CUST0006,35,Month-to-month,Fiber optic,No,Yes,2024-07-28,Yes
+CUST0007,55,Two year,DSL,Yes,No,2022-08-13,Yes
+CUST0008,49,Month-to-month,DSL,Yes,Yes,2023-07-01,No
+CUST0009,34,Two year,Fiber optic,Yes,No,2023-02-12,Yes
+CUST0010,42,Month-to-month,DSL,No,Yes,2022-06-11,Yes
+CUST0011,61,Two year,Fiber optic,No,Yes,2023-02-16,No
+CUST0012,58,Month-to-month,DSL,Yes,Yes,2022-05-01,Yes
+CUST0013,63,Month-to-month,,No,No,2024-08-26,No
+CUST0014,53,Month-to-month,Fiber optic,Yes,Yes,2022-08-12,Yes
+CUST0015,60,Month-to-month,DSL,Yes,Yes,2022-01-31,No
+CUST0016,62,Month-to-month,DSL,No,Yes,2024-07-20,Yes
+CUST0017,25,Month-to-month,Fiber optic,Yes,No,2024-10-26,No
+CUST0018,9,Month-to-month,DSL,Yes,Yes,2022-06-17,Yes
+CUST0019,41,Month-to-month,Fiber optic,No,No,2022-05-29,Yes
+CUST0020,28,Month-to-month,DSL,Yes,Yes,2025-01-17,No
+CUST0021,71,Month-to-month,,No,No,2022-08-08,No
+CUST0022,34,Month-to-month,,No,No,2023-07-21,Yes
+CUST0023,57,Month-to-month,DSL,Yes,Yes,2025-02-05,Yes
+CUST0024,27,One year,DSL,No,Yes,2022-11-29,No
+CUST0025,43,One year,Fiber optic,Yes,No,2024-02-23,No
+CUST0026,40,One year,DSL,Yes,No,2023-07-26,No
+CUST0027,15,Two year,Fiber optic,No,Yes,2023-10-05,Yes
+CUST0028,6,One year,,No,No,2023-02-08,Yes
+CUST0029,16,One year,DSL,No,No,2022-09-18,Yes
+CUST0030,39,Month-to-month,DSL,Yes,No,2023-10-22,Yes
+CUST0031,11,Month-to-month,Fiber optic,Yes,Yes,2023-02-12,Yes
+CUST0032,54,Two year,Fiber optic,No,No,2022-01-12,No
+CUST0033,23,One year,DSL,Yes,Yes,2024-12-23,No
+CUST0034,58,Two year,DSL,No,Yes,2024-12-03,No
+CUST0035,35,Month-to-month,DSL,Yes,Yes,2023-03-15,Yes
+CUST0036,54,Month-to-month,,No,No,2024-02-19,Yes
+CUST0037,70,One year,DSL,No,No,2024-04-08,No
+CUST0038,4,Month-to-month,Fiber optic,Yes,Yes,2024-07-20,Yes
+CUST0039,11,Month-to-month,DSL,No,Yes,2022-03-24,Yes
+CUST0040,17,Month-to-month,,No,No,2024-01-26,Yes
+CUST0041,14,Month-to-month,Fiber optic,No,No,2023-05-13,Yes
+CUST0042,6,Month-to-month,DSL,No,Yes,2022-08-05,Yes
+CUST0043,23,One year,DSL,No,No,2023-07-04,No
+CUST0044,60,Month-to-month,DSL,No,No,2023-06-14,Yes
+CUST0045,25,Month-to-month,DSL,Yes,No,2022-02-05,Yes
+CUST0046,71,Month-to-month,Fiber optic,No,No,2023-05-30,Yes
+CUST0047,28,One year,Fiber optic,No,Yes,2024-01-10,Yes
+CUST0048,71,Month-to-month,Fiber optic,No,Yes,2024-08-19,Yes
+CUST0049,9,Month-to-month,Fiber optic,Yes,Yes,2023-09-15,Yes
+CUST0050,67,Month-to-month,DSL,No,No,2022-07-23,No
+CUST0051,31,Month-to-month,DSL,No,No,2023-08-03,Yes
+CUST0052,15,Month-to-month,,No,No,2022-12-06,No
+CUST0053,60,One year,,No,No,2022-06-14,No
+CUST0054,12,Month-to-month,Fiber optic,Yes,No,2022-12-25,Yes
+CUST0055,63,Two year,DSL,No,Yes,2024-10-11,Yes
+CUST0056,12,Month-to-month,,No,No,2022-01-03,Yes
+CUST0057,64,One year,DSL,Yes,No,2022-09-06,Yes
+CUST0058,71,Month-to-month,DSL,Yes,No,2022-11-12,Yes
+CUST0059,61,Month-to-month,DSL,Yes,Yes,2024-04-29,Yes
+CUST0060,39,One year,Fiber optic,Yes,No,2025-02-04,No
+CUST0061,31,Month-to-month,Fiber optic,Yes,No,2024-02-20,Yes
+CUST0062,17,Month-to-month,Fiber optic,No,Yes,2022-10-23,Yes
+CUST0063,51,One year,Fiber optic,No,No,2024-09-26,No
+CUST0064,12,Month-to-month,Fiber optic,Yes,No,2022-03-01,Yes
+CUST0065,32,Month-to-month,Fiber optic,Yes,Yes,2023-05-09,Yes
+CUST0066,33,One year,DSL,No,Yes,2023-09-05,No
+CUST0067,50,Two year,DSL,No,No,2024-03-21,Yes
+CUST0068,64,One year,Fiber optic,Yes,No,2023-05-29,No
+CUST0069,13,Two year,DSL,No,Yes,2022-07-04,No
+CUST0070,70,Two year,Fiber optic,No,Yes,2024-09-13,No
+CUST0071,10,Month-to-month,Fiber optic,No,No,2023-06-26,Yes
+CUST0072,49,One year,DSL,Yes,No,2025-02-23,No
+CUST0073,39,One year,DSL,Yes,No,2023-04-26,No
+CUST0074,20,Two year,Fiber optic,No,No,2024-06-27,No
+CUST0075,46,Month-to-month,,No,No,2022-07-07,Yes
+CUST0076,43,Month-to-month,Fiber optic,Yes,Yes,2023-04-23,Yes
+CUST0077,17,Month-to-month,DSL,Yes,Yes,2023-05-03,No
+CUST0078,15,One year,Fiber optic,Yes,No,2022-03-30,No
+CUST0079,4,Month-to-month,DSL,Yes,No,2022-06-15,Yes
+CUST0080,68,Month-to-month,DSL,Yes,Yes,2024-04-27,Yes
+CUST0081,41,One year,DSL,No,Yes,2024-06-03,Yes
+CUST0082,72,Month-to-month,DSL,No,Yes,2023-12-22,Yes
+CUST0083,45,One year,Fiber optic,Yes,No,2025-02-14,Yes
+CUST0084,35,One year,DSL,Yes,Yes,2024-03-31,Yes
+CUST0085,54,Month-to-month,DSL,No,Yes,2022-04-12,Yes
+CUST0086,35,Month-to-month,DSL,Yes,No,2024-12-15,No
+CUST0087,27,Month-to-month,DSL,No,No,2024-05-31,Yes
+CUST0088,51,Two year,DSL,Yes,No,2024-05-05,Yes
+CUST0089,47,Month-to-month,DSL,No,Yes,2023-11-27,Yes
+CUST0090,66,Month-to-month,DSL,Yes,Yes,2022-12-22,No
+CUST0091,58,One year,Fiber optic,No,No,2024-06-24,No
+CUST0092,60,Month-to-month,Fiber optic,Yes,Yes,2024-08-05,Yes
+CUST0093,25,Month-to-month,DSL,Yes,No,2023-12-05,No
+CUST0094,57,Two year,Fiber optic,No,No,2023-11-24,No
+CUST0095,13,Month-to-month,DSL,Yes,No,2023-12-18,Yes
+CUST0096,72,Month-to-month,Fiber optic,Yes,No,2023-09-25,Yes
+CUST0097,18,Month-to-month,Fiber optic,Yes,No,2024-02-11,Yes
+CUST0098,57,Month-to-month,Fiber optic,No,No,2023-04-25,Yes
+CUST0099,57,Month-to-month,DSL,No,Yes,2022-10-11,No
+CUST0100,67,Two year,Fiber optic,No,No,2024-06-14,Yes
+CUST0101,7,Month-to-month,DSL,Yes,No,2022-07-22,Yes
+CUST0102,61,One year,Fiber optic,No,Yes,2023-03-18,No
+CUST0103,37,Month-to-month,DSL,No,Yes,2025-01-02,Yes
+CUST0104,1,One year,DSL,Yes,No,2024-11-05,No
+CUST0105,50,Two year,DSL,Yes,No,2022-08-01,No
+CUST0106,44,One year,Fiber optic,No,No,2022-05-10,No
+CUST0107,26,Two year,DSL,No,No,2023-01-27,Yes
+CUST0108,16,One year,DSL,No,No,2024-10-15,No
+CUST0109,56,One year,Fiber optic,No,Yes,2023-09-20,No
+CUST0110,6,One year,Fiber optic,No,No,2022-04-28,Yes
+CUST0111,19,One year,DSL,Yes,Yes,2024-01-12,No
+CUST0112,48,Month-to-month,DSL,No,No,2022-08-21,Yes
+CUST0113,34,One year,Fiber optic,No,Yes,2024-07-14,Yes
+CUST0114,45,One year,DSL,No,Yes,2022-12-23,No
+CUST0115,64,Month-to-month,DSL,Yes,Yes,2024-09-07,No
+CUST0116,10,Month-to-month,DSL,Yes,Yes,2022-04-24,No
+CUST0117,29,Month-to-month,Fiber optic,Yes,No,2023-07-17,Yes
+CUST0118,20,Month-to-month,,No,No,2022-03-26,No
+CUST0119,27,One year,Fiber optic,No,No,2023-05-17,No
+CUST0120,57,Month-to-month,DSL,Yes,No,2023-12-09,No
+CUST0121,31,Month-to-month,DSL,Yes,Yes,2024-05-06,Yes
+CUST0122,21,Month-to-month,DSL,No,No,2024-11-01,Yes
+CUST0123,64,Month-to-month,Fiber optic,No,Yes,2023-06-26,No
+CUST0124,72,Month-to-month,DSL,No,No,2022-09-01,Yes
+CUST0125,19,Month-to-month,Fiber optic,Yes,Yes,2024-08-28,Yes
+CUST0126,41,Month-to-month,Fiber optic,No,No,2024-09-30,No
+CUST0127,15,Two year,Fiber optic,Yes,No,2023-04-12,No
+CUST0128,32,Month-to-month,DSL,Yes,No,2023-02-22,Yes
+CUST0129,18,Month-to-month,,No,No,2022-12-21,Yes
+CUST0130,62,Month-to-month,Fiber optic,Yes,No,2024-09-28,Yes
+CUST0131,16,Month-to-month,Fiber optic,No,No,2023-08-18,Yes
+CUST0132,62,Month-to-month,DSL,No,Yes,2023-05-06,Yes
+CUST0133,13,Month-to-month,DSL,Yes,Yes,2022-11-20,Yes
+CUST0134,37,Month-to-month,,No,No,2024-12-31,No
+CUST0135,5,Two year,DSL,No,Yes,2022-08-08,No
+CUST0136,65,Month-to-month,DSL,Yes,No,2022-01-29,No
+CUST0137,52,One year,DSL,Yes,Yes,2023-05-24,Yes
+CUST0138,2,Month-to-month,DSL,Yes,No,2024-10-26,No
+CUST0139,38,Month-to-month,,No,No,2024-02-05,Yes
+CUST0140,32,One year,Fiber optic,No,No,2022-05-07,No
+CUST0141,42,Two year,Fiber optic,No,Yes,2022-04-24,No
+CUST0142,40,One year,Fiber optic,Yes,Yes,2022-05-11,No
+CUST0143,53,Month-to-month,Fiber optic,No,No,2024-02-13,Yes
+CUST0144,45,Month-to-month,DSL,Yes,Yes,2023-09-04,Yes
+CUST0145,59,Month-to-month,,No,No,2024-05-08,Yes
+CUST0146,13,Month-to-month,Fiber optic,Yes,Yes,2023-04-25,Yes
+CUST0147,41,Month-to-month,Fiber optic,Yes,No,2024-12-03,Yes
+CUST0148,55,Month-to-month,DSL,No,No,2023-09-07,Yes
+CUST0149,19,One year,Fiber optic,No,Yes,2023-11-08,No
+CUST0150,35,Month-to-month,DSL,Yes,Yes,2025-02-18,Yes
+CUST0151,25,Two year,,No,No,2023-02-23,Yes
+CUST0152,69,One year,DSL,No,No,2024-08-19,No
+CUST0153,29,One year,Fiber optic,No,No,2024-02-17,Yes
+CUST0154,63,Two year,DSL,Yes,No,2024-09-27,Yes
+CUST0155,7,One year,Fiber optic,Yes,Yes,2024-11-01,Yes
+CUST0156,63,Month-to-month,DSL,Yes,No,2024-10-25,No
+CUST0157,68,Month-to-month,Fiber optic,No,No,2024-04-11,Yes
+CUST0158,5,Month-to-month,Fiber optic,Yes,Yes,2024-06-07,Yes
+CUST0159,28,Two year,Fiber optic,No,Yes,2023-07-29,No
+CUST0160,27,Month-to-month,Fiber optic,No,Yes,2024-03-07,Yes
+CUST0161,11,Month-to-month,DSL,No,Yes,2024-03-23,No
+CUST0162,30,Month-to-month,DSL,No,Yes,2023-05-20,No
+CUST0163,50,Month-to-month,DSL,No,No,2022-09-29,Yes
+CUST0164,4,Month-to-month,Fiber optic,No,No,2022-06-23,Yes
+CUST0165,49,Month-to-month,DSL,Yes,Yes,2023-09-06,Yes
+CUST0166,26,Month-to-month,DSL,No,No,2023-11-06,Yes
+CUST0167,42,One year,DSL,Yes,No,2024-10-02,No
+CUST0168,15,Two year,,No,No,2022-02-25,No
+CUST0169,9,One year,DSL,No,Yes,2022-11-12,No
+CUST0170,52,Month-to-month,Fiber optic,No,Yes,2025-01-04,Yes
+CUST0171,6,Month-to-month,Fiber optic,No,No,2023-03-31,Yes
+CUST0172,48,Month-to-month,Fiber optic,Yes,No,2023-08-29,Yes
+CUST0173,40,Month-to-month,Fiber optic,No,No,2024-07-15,Yes
+CUST0174,14,One year,,No,No,2022-11-24,Yes
+CUST0175,24,Month-to-month,DSL,Yes,No,2023-03-16,Yes
+CUST0176,69,Month-to-month,DSL,No,No,2024-03-06,Yes
+CUST0177,23,One year,DSL,Yes,Yes,2022-08-28,Yes
+CUST0178,50,Month-to-month,Fiber optic,Yes,Yes,2023-10-07,No
+CUST0179,25,One year,Fiber optic,No,No,2024-06-28,No
+CUST0180,5,Month-to-month,DSL,No,No,2022-08-22,Yes
+CUST0181,57,Month-to-month,DSL,Yes,No,2023-06-23,Yes
+CUST0182,45,Two year,DSL,Yes,Yes,2023-12-20,No
+CUST0183,35,Two year,,No,No,2024-04-22,No
+CUST0184,19,One year,Fiber optic,No,No,2024-04-28,Yes
+CUST0185,66,One year,Fiber optic,No,No,2022-07-10,No
+CUST0186,69,Month-to-month,Fiber optic,No,No,2025-01-25,Yes
+CUST0187,13,One year,DSL,Yes,No,2024-05-26,No
+CUST0188,36,Month-to-month,DSL,Yes,Yes,2023-04-25,Yes
+CUST0189,17,Month-to-month,DSL,Yes,No,2024-05-14,No
+CUST0190,41,Month-to-month,DSL,Yes,Yes,2022-12-03,Yes
+CUST0191,57,Two year,DSL,Yes,No,2022-10-14,Yes
+CUST0192,4,One year,DSL,Yes,No,2023-05-06,No
+CUST0193,2,Two year,DSL,No,No,2024-08-22,No
+CUST0194,28,Month-to-month,Fiber optic,No,No,2025-01-03,Yes
+CUST0195,20,Month-to-month,Fiber optic,Yes,No,2023-05-04,Yes
+CUST0196,23,Month-to-month,Fiber optic,Yes,No,2023-06-15,Yes
+CUST0197,4,Month-to-month,Fiber optic,No,Yes,2022-04-24,Yes
+CUST0198,15,Month-to-month,DSL,Yes,Yes,2022-11-04,Yes
+CUST0199,42,Month-to-month,DSL,Yes,No,2022-04-18,Yes
+CUST0200,37,One year,DSL,No,Yes,2023-09-15,No
+CUST0201,70,One year,DSL,No,Yes,2022-01-20,No
+CUST0202,27,Month-to-month,DSL,Yes,Yes,2023-04-20,No
+CUST0203,11,Month-to-month,Fiber optic,No,Yes,2022-09-25,Yes
+CUST0204,42,Month-to-month,DSL,Yes,Yes,2022-11-15,Yes
+CUST0205,27,Month-to-month,Fiber optic,Yes,Yes,2022-03-24,Yes
+CUST0206,51,Month-to-month,DSL,Yes,Yes,2025-02-12,No
+CUST0207,2,Month-to-month,DSL,Yes,No,2022-06-22,Yes
+CUST0208,57,One year,Fiber optic,No,Yes,2022-12-11,No
+CUST0209,55,Month-to-month,DSL,No,No,2023-05-19,Yes
+CUST0210,36,Month-to-month,Fiber optic,Yes,Yes,2024-01-06,Yes
+CUST0211,35,Month-to-month,DSL,No,Yes,2024-01-03,Yes
+CUST0212,31,Month-to-month,,No,No,2023-03-26,Yes
+CUST0213,31,Month-to-month,Fiber optic,Yes,No,2025-02-27,No
+CUST0214,63,Month-to-month,Fiber optic,Yes,No,2023-02-17,No
+CUST0215,3,Month-to-month,DSL,Yes,No,2024-03-21,Yes
+CUST0216,63,One year,,No,No,2024-01-01,Yes
+CUST0217,23,One year,,No,No,2022-03-08,Yes
+CUST0218,14,Two year,Fiber optic,Yes,No,2022-07-01,No
+CUST0219,34,Month-to-month,DSL,Yes,Yes,2024-05-09,No
+CUST0220,49,Month-to-month,Fiber optic,Yes,Yes,2022-03-10,Yes
+CUST0221,49,Month-to-month,,No,No,2024-09-15,Yes
+CUST0222,7,Month-to-month,DSL,No,No,2024-03-15,Yes
+CUST0223,12,Month-to-month,Fiber optic,Yes,Yes,2023-08-21,No
+CUST0224,63,Two year,Fiber optic,No,Yes,2023-01-18,Yes
+CUST0225,8,Month-to-month,DSL,No,No,2025-02-07,Yes
+CUST0226,31,Month-to-month,,No,No,2024-11-24,No
+CUST0227,22,Two year,DSL,No,Yes,2022-10-30,No
+CUST0228,50,Month-to-month,Fiber optic,No,Yes,2024-12-06,No
+CUST0229,13,One year,Fiber optic,No,No,2024-08-26,Yes
+CUST0230,51,Two year,DSL,No,No,2023-09-13,Yes
+CUST0231,18,Month-to-month,Fiber optic,No,No,2022-07-02,Yes
+CUST0232,67,Two year,Fiber optic,Yes,Yes,2022-10-05,No
+CUST0233,8,Month-to-month,,No,No,2024-08-08,Yes
+CUST0234,63,Month-to-month,Fiber optic,No,No,2022-07-05,Yes
+CUST0235,29,One year,DSL,Yes,Yes,2022-12-21,No
+CUST0236,36,Month-to-month,DSL,No,Yes,2024-03-24,Yes
+CUST0237,37,Month-to-month,DSL,No,No,2023-09-04,Yes
+CUST0238,41,One year,Fiber optic,No,No,2022-03-14,No
+CUST0239,69,One year,,No,No,2022-12-15,No
+CUST0240,34,One year,,No,No,2022-07-02,Yes
+CUST0241,34,Month-to-month,DSL,Yes,Yes,2022-09-03,No
+CUST0242,26,Month-to-month,Fiber optic,No,Yes,2022-06-15,Yes
+CUST0243,58,Month-to-month,DSL,Yes,No,2022-09-23,No
+CUST0244,5,Month-to-month,,No,No,2024-12-23,Yes
+CUST0245,45,Month-to-month,Fiber optic,No,Yes,2023-08-19,Yes
+CUST0246,63,Month-to-month,,No,No,2023-04-13,Yes
+CUST0247,47,One year,DSL,No,Yes,2022-08-10,No
+CUST0248,16,Month-to-month,DSL,Yes,No,2024-12-01,Yes
+CUST0249,16,Month-to-month,DSL,Yes,No,2024-01-04,No
+CUST0250,62,Month-to-month,Fiber optic,Yes,No,2024-11-13,Yes
+CUST0251,38,Month-to-month,Fiber optic,Yes,No,2024-05-22,Yes
+CUST0252,22,Month-to-month,,No,No,2024-02-03,No
+CUST0253,62,One year,Fiber optic,Yes,Yes,2022-11-23,Yes
+CUST0254,49,One year,Fiber optic,Yes,No,2024-04-22,No
+CUST0255,44,Month-to-month,Fiber optic,No,Yes,2024-02-28,Yes
+CUST0256,21,Month-to-month,DSL,Yes,Yes,2023-11-09,No
+CUST0257,31,Month-to-month,Fiber optic,Yes,No,2024-10-15,No
+CUST0258,12,One year,Fiber optic,Yes,No,2022-04-22,No
+CUST0259,47,One year,Fiber optic,Yes,Yes,2023-08-21,No
+CUST0260,53,Month-to-month,DSL,No,Yes,2023-11-24,Yes
+CUST0261,58,Month-to-month,Fiber optic,No,Yes,2024-06-05,No
+CUST0262,17,Month-to-month,Fiber optic,No,No,2023-05-24,Yes
+CUST0263,53,One year,Fiber optic,No,Yes,2023-08-19,No
+CUST0264,70,One year,DSL,No,No,2024-05-04,No
+CUST0265,2,Month-to-month,DSL,Yes,Yes,2023-08-10,Yes
+CUST0266,70,Month-to-month,DSL,Yes,No,2023-08-13,No
+CUST0267,7,Month-to-month,Fiber optic,No,Yes,2024-01-24,Yes
+CUST0268,58,Month-to-month,DSL,Yes,Yes,2025-02-13,Yes
+CUST0269,20,Month-to-month,Fiber optic,No,No,2022-05-30,No
+CUST0270,65,Month-to-month,DSL,No,Yes,2023-11-10,Yes
+CUST0271,2,Month-to-month,DSL,Yes,Yes,2022-08-21,Yes
+CUST0272,66,Month-to-month,Fiber optic,Yes,No,2022-12-09,No
+CUST0273,28,Two year,DSL,No,Yes,2024-07-29,No
+CUST0274,10,Month-to-month,DSL,No,No,2022-02-04,Yes
+CUST0275,6,One year,,No,No,2023-09-10,Yes
+CUST0276,4,Month-to-month,DSL,No,No,2024-02-04,No
+CUST0277,1,Month-to-month,Fiber optic,Yes,No,2023-12-06,Yes
+CUST0278,29,One year,DSL,Yes,No,2022-05-18,Yes
+CUST0279,31,Month-to-month,,No,No,2023-09-19,No
+CUST0280,22,Month-to-month,DSL,No,No,2023-11-11,No
+CUST0281,14,Month-to-month,Fiber optic,Yes,Yes,2022-06-06,No
+CUST0282,52,One year,DSL,No,No,2024-03-14,Yes
+CUST0283,65,Month-to-month,Fiber optic,Yes,Yes,2022-11-23,Yes
+CUST0284,6,Month-to-month,DSL,No,Yes,2024-01-10,Yes
+CUST0285,67,One year,Fiber optic,Yes,No,2022-06-09,No
+CUST0286,45,Month-to-month,Fiber optic,Yes,No,2023-07-30,Yes
+CUST0287,30,Month-to-month,DSL,No,No,2024-04-21,Yes
+CUST0288,66,Month-to-month,DSL,No,Yes,2025-02-28,No
+CUST0289,28,Month-to-month,Fiber optic,Yes,Yes,2023-01-08,No
+CUST0290,9,Month-to-month,DSL,Yes,No,2022-12-30,Yes
+CUST0291,62,One year,Fiber optic,Yes,No,2022-03-30,No
+CUST0292,13,Month-to-month,Fiber optic,Yes,No,2023-06-12,Yes
+CUST0293,1,Month-to-month,Fiber optic,No,No,2023-06-04,Yes
+CUST0294,51,One year,Fiber optic,No,Yes,2023-06-04,No
+CUST0295,16,One year,Fiber optic,Yes,Yes,2023-11-25,No
+CUST0296,1,One year,DSL,No,Yes,2022-06-13,No
+CUST0297,8,Two year,Fiber optic,No,Yes,2024-11-27,Yes
+CUST0298,22,One year,Fiber optic,Yes,Yes,2023-12-25,No
+CUST0299,71,Month-to-month,,No,No,2023-07-21,Yes
+CUST0300,23,Month-to-month,DSL,No,No,2023-06-12,No
+CUST0301,62,One year,,No,No,2022-02-26,No
+CUST0302,30,One year,DSL,Yes,No,2023-12-02,Yes
+CUST0303,35,Month-to-month,,No,No,2023-04-26,No
+CUST0304,46,Month-to-month,,No,No,2022-01-14,Yes
+CUST0305,41,Month-to-month,Fiber optic,No,No,2024-11-12,Yes
+CUST0306,70,Month-to-month,Fiber optic,Yes,No,2024-07-31,Yes
+CUST0307,47,One year,Fiber optic,Yes,No,2024-01-20,Yes
+CUST0308,52,Month-to-month,DSL,Yes,Yes,2025-02-11,Yes
+CUST0309,2,Month-to-month,,No,No,2023-10-09,Yes
+CUST0310,13,One year,Fiber optic,No,Yes,2024-01-10,Yes
+CUST0311,16,Month-to-month,Fiber optic,Yes,No,2024-09-25,No
+CUST0312,19,Two year,,No,No,2024-04-08,No
+CUST0313,38,One year,DSL,No,No,2024-07-11,No
+CUST0314,33,Two year,DSL,Yes,No,2024-08-27,No
+CUST0315,34,One year,,No,No,2023-08-05,Yes
+CUST0316,46,Two year,DSL,No,No,2025-01-09,Yes
+CUST0317,69,Month-to-month,Fiber optic,Yes,No,2022-11-15,Yes
+CUST0318,37,Month-to-month,,No,No,2022-01-19,Yes
+CUST0319,48,Month-to-month,DSL,Yes,Yes,2024-02-14,Yes
+CUST0320,69,One year,Fiber optic,Yes,Yes,2024-07-16,Yes
+CUST0321,69,Month-to-month,DSL,Yes,No,2022-11-05,Yes
+CUST0322,60,One year,DSL,Yes,Yes,2025-01-17,No
+CUST0323,16,Two year,DSL,No,Yes,2024-08-01,No
+CUST0324,40,Two year,Fiber optic,Yes,No,2024-01-09,No
+CUST0325,56,Month-to-month,DSL,Yes,No,2022-03-28,Yes
+CUST0326,12,Month-to-month,Fiber optic,No,Yes,2025-01-03,No
+CUST0327,57,One year,DSL,Yes,No,2024-06-15,No
+CUST0328,45,Month-to-month,Fiber optic,Yes,Yes,2023-06-24,Yes
+CUST0329,24,Two year,DSL,Yes,No,2025-01-08,No
+CUST0330,37,Month-to-month,DSL,Yes,Yes,2022-03-06,Yes
+CUST0331,63,Month-to-month,DSL,No,Yes,2023-03-04,No
+CUST0332,72,One year,Fiber optic,Yes,No,2023-09-15,Yes
+CUST0333,50,Month-to-month,DSL,Yes,No,2024-01-04,No
+CUST0334,24,Month-to-month,Fiber optic,No,No,2023-10-27,No
+CUST0335,31,Month-to-month,Fiber optic,No,No,2024-03-24,Yes
+CUST0336,1,Month-to-month,Fiber optic,Yes,No,2022-11-13,Yes
+CUST0337,32,Month-to-month,DSL,No,Yes,2024-09-15,Yes
+CUST0338,39,Month-to-month,DSL,Yes,No,2024-05-03,No
+CUST0339,49,Month-to-month,DSL,Yes,No,2022-04-14,No
+CUST0340,56,Month-to-month,DSL,Yes,No,2024-03-28,Yes
+CUST0341,18,Month-to-month,DSL,Yes,Yes,2024-05-30,Yes
+CUST0342,47,Month-to-month,Fiber optic,Yes,No,2024-06-24,Yes
+CUST0343,48,Month-to-month,DSL,Yes,Yes,2023-08-13,Yes
+CUST0344,43,Month-to-month,DSL,No,No,2022-02-07,Yes
+CUST0345,37,Month-to-month,DSL,No,Yes,2024-01-08,No
+CUST0346,49,Month-to-month,,No,No,2022-06-30,Yes
+CUST0347,32,Two year,DSL,Yes,Yes,2023-09-12,Yes
+CUST0348,33,Two year,Fiber optic,Yes,No,2024-03-15,No
+CUST0349,31,Month-to-month,DSL,No,No,2022-10-11,Yes
+CUST0350,68,Two year,,No,No,2022-11-20,No
+CUST0351,19,One year,Fiber optic,No,No,2023-07-15,Yes
+CUST0352,30,Month-to-month,DSL,Yes,No,2024-08-18,No
+CUST0353,21,Month-to-month,Fiber optic,Yes,No,2023-02-20,Yes
+CUST0354,42,Two year,DSL,Yes,No,2025-01-03,No
+CUST0355,59,One year,,No,No,2022-03-22,No
+CUST0356,57,Month-to-month,Fiber optic,No,Yes,2022-04-22,Yes
+CUST0357,65,Month-to-month,,No,No,2024-04-26,Yes
+CUST0358,12,Month-to-month,,No,No,2022-09-11,Yes
+CUST0359,66,One year,Fiber optic,Yes,Yes,2022-11-04,Yes
+CUST0360,40,One year,DSL,Yes,Yes,2022-01-08,No
+CUST0361,1,One year,DSL,No,No,2022-01-14,Yes
+CUST0362,24,Month-to-month,DSL,Yes,No,2022-08-12,Yes
+CUST0363,47,Two year,DSL,No,No,2025-02-01,Yes
+CUST0364,68,Month-to-month,DSL,Yes,Yes,2024-12-19,No
+CUST0365,41,Month-to-month,Fiber optic,Yes,No,2024-10-05,No
+CUST0366,16,Month-to-month,DSL,Yes,No,2025-02-21,No
+CUST0367,9,Month-to-month,DSL,Yes,Yes,2022-03-01,No
+CUST0368,5,One year,Fiber optic,No,No,2022-04-25,No
+CUST0369,43,One year,DSL,Yes,No,2024-02-08,No
+CUST0370,15,Two year,Fiber optic,No,Yes,2023-05-02,Yes
+CUST0371,15,Month-to-month,DSL,Yes,No,2024-10-21,Yes
+CUST0372,42,Month-to-month,Fiber optic,Yes,Yes,2024-12-05,Yes
+CUST0373,60,Two year,Fiber optic,No,Yes,2023-03-06,Yes
+CUST0374,16,Month-to-month,DSL,Yes,Yes,2023-07-10,Yes
+CUST0375,40,One year,DSL,Yes,Yes,2022-08-05,Yes
+CUST0376,46,Month-to-month,Fiber optic,Yes,No,2024-08-17,Yes
+CUST0377,30,Two year,Fiber optic,No,No,2023-11-08,No
+CUST0378,15,Month-to-month,DSL,No,Yes,2022-08-08,Yes
+CUST0379,53,Month-to-month,DSL,No,No,2024-06-01,Yes
+CUST0380,10,One year,Fiber optic,Yes,No,2024-06-30,Yes
+CUST0381,64,One year,DSL,Yes,Yes,2024-07-16,No
+CUST0382,41,Month-to-month,Fiber optic,No,No,2024-11-11,Yes
+CUST0383,72,One year,Fiber optic,Yes,Yes,2023-10-14,No
+CUST0384,18,Month-to-month,,No,No,2022-09-15,Yes
+CUST0385,56,Two year,DSL,No,No,2024-05-21,No
+CUST0386,46,Month-to-month,DSL,No,Yes,2025-01-23,Yes
+CUST0387,62,Two year,Fiber optic,No,No,2022-07-01,Yes
+CUST0388,70,One year,DSL,No,Yes,2024-08-18,No
+CUST0389,22,Month-to-month,Fiber optic,No,Yes,2022-04-16,Yes
+CUST0390,11,Month-to-month,Fiber optic,No,Yes,2023-06-11,Yes
+CUST0391,58,Month-to-month,Fiber optic,Yes,No,2022-03-09,Yes
+CUST0392,53,One year,DSL,Yes,Yes,2022-04-22,No
+CUST0393,61,Month-to-month,Fiber optic,Yes,No,2023-06-22,Yes
+CUST0394,41,Two year,DSL,No,No,2023-07-13,No
+CUST0395,31,One year,DSL,No,Yes,2022-01-18,No
+CUST0396,29,One year,DSL,Yes,Yes,2023-03-21,No
+CUST0397,17,Month-to-month,Fiber optic,Yes,Yes,2024-08-14,No
+CUST0398,42,Month-to-month,DSL,Yes,No,2023-06-13,No
+CUST0399,51,Month-to-month,DSL,No,Yes,2024-06-23,No
+CUST0400,58,Month-to-month,Fiber optic,Yes,Yes,2023-11-07,No
+CUST0401,56,Month-to-month,Fiber optic,Yes,Yes,2024-09-14,Yes
+CUST0402,8,One year,DSL,No,Yes,2023-08-17,No
+CUST0403,50,Two year,DSL,Yes,No,2023-01-31,Yes
+CUST0404,70,One year,,No,No,2022-02-03,Yes
+CUST0405,28,One year,DSL,Yes,Yes,2022-10-17,No
+CUST0406,17,Month-to-month,,No,No,2022-12-16,No
+CUST0407,29,Month-to-month,DSL,No,No,2025-01-22,Yes
+CUST0408,23,Month-to-month,DSL,No,Yes,2024-06-17,Yes
+CUST0409,21,Month-to-month,DSL,Yes,Yes,2023-08-05,Yes
+CUST0410,19,One year,DSL,Yes,Yes,2022-06-30,No
+CUST0411,16,Two year,Fiber optic,Yes,No,2023-07-21,Yes
+CUST0412,23,Month-to-month,DSL,No,No,2024-07-17,Yes
+CUST0413,4,Month-to-month,Fiber optic,No,No,2023-10-30,Yes
+CUST0414,49,Two year,Fiber optic,Yes,No,2024-07-20,Yes
+CUST0415,26,Month-to-month,Fiber optic,No,Yes,2024-05-06,Yes
+CUST0416,22,Month-to-month,DSL,No,No,2024-08-27,No
+CUST0417,42,Month-to-month,,No,No,2022-01-11,Yes
+CUST0418,68,Month-to-month,Fiber optic,Yes,No,2022-01-26,No
+CUST0419,12,Month-to-month,DSL,No,Yes,2022-10-11,No
+CUST0420,1,Two year,Fiber optic,No,Yes,2025-01-15,Yes
+CUST0421,8,Month-to-month,DSL,Yes,Yes,2022-03-25,Yes
+CUST0422,43,Month-to-month,DSL,Yes,Yes,2024-10-28,Yes
+CUST0423,65,Month-to-month,Fiber optic,No,No,2022-05-15,Yes
+CUST0424,10,Month-to-month,Fiber optic,No,Yes,2022-02-16,Yes
+CUST0425,54,Month-to-month,DSL,Yes,Yes,2024-11-30,No
+CUST0426,68,One year,DSL,Yes,No,2024-09-18,No
+CUST0427,59,Two year,DSL,No,Yes,2022-11-11,Yes
+CUST0428,34,Month-to-month,Fiber optic,No,No,2022-11-29,Yes
+CUST0429,41,Month-to-month,Fiber optic,No,No,2022-10-29,No
+CUST0430,62,Two year,Fiber optic,No,Yes,2024-07-02,Yes
+CUST0431,36,Month-to-month,Fiber optic,Yes,No,2024-11-13,No
+CUST0432,50,Month-to-month,DSL,No,Yes,2024-05-01,No
+CUST0433,12,Month-to-month,,No,No,2024-02-09,Yes
+CUST0434,60,One year,DSL,Yes,No,2023-09-11,No
+CUST0435,1,Month-to-month,Fiber optic,No,Yes,2024-05-04,Yes
+CUST0436,36,Month-to-month,Fiber optic,No,No,2024-09-01,No
+CUST0437,21,Month-to-month,DSL,Yes,No,2024-05-09,Yes
+CUST0438,25,One year,DSL,Yes,No,2023-09-09,Yes
+CUST0439,19,Month-to-month,DSL,No,No,2022-07-29,Yes
+CUST0440,59,Two year,DSL,Yes,No,2022-10-12,No
+CUST0441,39,Month-to-month,DSL,Yes,Yes,2022-06-10,Yes
+CUST0442,56,Month-to-month,Fiber optic,Yes,No,2022-05-16,Yes
+CUST0443,26,Month-to-month,DSL,No,No,2023-05-11,Yes
+CUST0444,28,One year,DSL,Yes,Yes,2024-08-30,No
+CUST0445,49,Month-to-month,DSL,No,Yes,2024-10-12,No
+CUST0446,64,Month-to-month,Fiber optic,No,No,2024-05-26,Yes
+CUST0447,2,Two year,DSL,No,Yes,2022-07-28,No
+CUST0448,26,Month-to-month,DSL,No,No,2023-07-14,No
+CUST0449,52,Two year,DSL,No,Yes,2023-04-18,No
+CUST0450,4,Two year,Fiber optic,Yes,No,2022-06-06,Yes
+CUST0451,64,Month-to-month,DSL,Yes,Yes,2022-09-01,Yes
+CUST0452,23,Month-to-month,DSL,Yes,No,2024-03-07,Yes
+CUST0453,72,Two year,DSL,No,No,2023-08-06,No
+CUST0454,4,One year,DSL,No,No,2022-04-26,No
+CUST0455,9,Two year,DSL,No,Yes,2024-11-20,No
+CUST0456,49,Month-to-month,DSL,No,Yes,2024-10-14,Yes
+CUST0457,56,Month-to-month,,No,No,2023-03-15,Yes
+CUST0458,12,One year,Fiber optic,No,Yes,2024-05-24,Yes
+CUST0459,70,Month-to-month,DSL,No,Yes,2024-11-23,No
+CUST0460,69,One year,,No,No,2022-05-03,No
+CUST0461,53,Month-to-month,DSL,Yes,No,2022-11-25,Yes
+CUST0462,4,Month-to-month,DSL,No,No,2022-11-23,Yes
+CUST0463,6,Two year,DSL,Yes,No,2024-04-13,No
+CUST0464,15,Month-to-month,DSL,No,No,2022-09-08,No
+CUST0465,31,Two year,DSL,Yes,No,2022-04-25,No
+CUST0466,32,Two year,,No,No,2023-09-24,Yes
+CUST0467,31,Month-to-month,Fiber optic,No,Yes,2024-06-25,Yes
+CUST0468,31,Month-to-month,DSL,No,No,2024-04-12,No
+CUST0469,53,Two year,DSL,Yes,Yes,2023-12-22,No
+CUST0470,4,One year,DSL,No,Yes,2023-09-18,Yes
+CUST0471,53,One year,DSL,Yes,No,2023-11-02,No
+CUST0472,29,Month-to-month,Fiber optic,Yes,Yes,2022-12-12,Yes
+CUST0473,22,Two year,Fiber optic,No,No,2023-04-05,No
+CUST0474,64,Month-to-month,DSL,Yes,No,2023-01-05,Yes
+CUST0475,58,Two year,Fiber optic,No,Yes,2023-10-25,No
+CUST0476,33,Month-to-month,DSL,Yes,No,2022-04-04,Yes
+CUST0477,72,Month-to-month,DSL,No,No,2023-10-12,Yes
+CUST0478,64,Two year,Fiber optic,No,No,2023-06-25,No
+CUST0479,20,Month-to-month,Fiber optic,No,Yes,2023-01-11,Yes
+CUST0480,6,Month-to-month,Fiber optic,No,No,2022-10-31,Yes
+CUST0481,66,One year,Fiber optic,Yes,Yes,2024-05-02,No
+CUST0482,37,One year,DSL,Yes,No,2024-09-09,No
+CUST0483,58,Month-to-month,Fiber optic,Yes,Yes,2023-08-03,Yes
+CUST0484,52,Month-to-month,Fiber optic,No,Yes,2024-03-06,Yes
+CUST0485,39,Month-to-month,Fiber optic,No,Yes,2024-01-23,Yes
+CUST0486,55,Month-to-month,DSL,Yes,No,2024-11-17,Yes
+CUST0487,68,One year,DSL,No,Yes,2022-11-01,No
+CUST0488,7,Month-to-month,Fiber optic,No,No,2023-06-03,Yes
+CUST0489,60,Month-to-month,DSL,Yes,No,2024-07-20,No
+CUST0490,24,Month-to-month,DSL,Yes,No,2022-08-27,Yes
+CUST0491,47,One year,Fiber optic,No,Yes,2022-08-18,No
+CUST0492,19,One year,Fiber optic,Yes,Yes,2024-08-28,No
+CUST0493,61,Month-to-month,DSL,No,No,2024-06-03,No
+CUST0494,63,Month-to-month,Fiber optic,No,Yes,2024-05-14,Yes
+CUST0495,15,Month-to-month,DSL,No,Yes,2024-08-19,Yes
+CUST0496,60,Month-to-month,Fiber optic,No,No,2022-11-28,Yes
+CUST0497,23,Month-to-month,DSL,No,No,2022-04-07,No
+CUST0498,65,Month-to-month,DSL,Yes,Yes,2023-11-28,No
+CUST0499,66,One year,DSL,No,No,2022-08-05,No
+CUST0500,14,Month-to-month,DSL,No,Yes,2024-11-02,Yes
+CUST0501,18,Month-to-month,,No,No,2024-08-28,Yes
+CUST0502,32,Month-to-month,DSL,Yes,Yes,2024-04-18,No
+CUST0503,57,Month-to-month,Fiber optic,Yes,Yes,2022-12-03,Yes
+CUST0504,8,Two year,Fiber optic,No,No,2025-02-07,No
+CUST0505,36,Two year,DSL,No,No,2024-06-24,No
+CUST0506,11,Month-to-month,Fiber optic,Yes,No,2023-10-02,Yes
+CUST0507,39,One year,DSL,Yes,No,2022-09-11,Yes
+CUST0508,44,Two year,,No,No,2024-12-28,No
+CUST0509,49,Month-to-month,DSL,Yes,No,2024-05-21,No
+CUST0510,58,Month-to-month,DSL,No,No,2024-06-20,No
+CUST0511,65,Month-to-month,DSL,Yes,Yes,2022-11-18,No
+CUST0512,16,Month-to-month,Fiber optic,Yes,No,2023-08-26,Yes
+CUST0513,40,Two year,Fiber optic,No,Yes,2022-04-02,Yes
+CUST0514,17,One year,DSL,No,No,2022-07-02,No
+CUST0515,70,Month-to-month,DSL,No,Yes,2023-09-25,Yes
+CUST0516,67,Month-to-month,Fiber optic,Yes,Yes,2023-02-26,Yes
+CUST0517,69,One year,DSL,Yes,No,2024-12-17,No
+CUST0518,19,Month-to-month,DSL,No,Yes,2023-01-07,Yes
+CUST0519,42,Month-to-month,Fiber optic,Yes,Yes,2023-04-30,Yes
+CUST0520,41,Month-to-month,DSL,No,Yes,2025-02-08,No
+CUST0521,53,Month-to-month,Fiber optic,Yes,No,2023-05-18,Yes
+CUST0522,60,Two year,Fiber optic,Yes,Yes,2023-07-14,No
+CUST0523,66,Month-to-month,Fiber optic,Yes,No,2022-10-14,Yes
+CUST0524,44,One year,Fiber optic,No,Yes,2023-03-08,No
+CUST0525,1,One year,DSL,Yes,No,2024-09-28,No
+CUST0526,4,Two year,DSL,Yes,No,2024-01-04,Yes
+CUST0527,48,Two year,DSL,Yes,No,2023-01-28,Yes
+CUST0528,64,Two year,DSL,Yes,Yes,2024-03-22,Yes
+CUST0529,23,Month-to-month,DSL,No,Yes,2023-07-16,Yes
+CUST0530,72,Two year,DSL,Yes,No,2023-07-16,Yes
+CUST0531,29,Month-to-month,Fiber optic,No,Yes,2022-02-21,No
+CUST0532,22,Month-to-month,Fiber optic,Yes,No,2023-11-16,No
+CUST0533,43,Month-to-month,DSL,No,Yes,2022-06-25,No
+CUST0534,17,Month-to-month,DSL,No,Yes,2022-04-17,Yes
+CUST0535,2,Month-to-month,DSL,Yes,No,2022-02-23,Yes
+CUST0536,9,Month-to-month,,No,No,2023-12-29,Yes
+CUST0537,6,Month-to-month,DSL,No,No,2022-10-26,Yes
+CUST0538,19,Month-to-month,Fiber optic,Yes,No,2023-02-17,No
+CUST0539,43,Two year,DSL,No,No,2022-03-28,No
+CUST0540,28,Month-to-month,,No,No,2023-02-25,Yes
+CUST0541,4,Month-to-month,DSL,No,Yes,2023-08-05,Yes
+CUST0542,26,Month-to-month,,No,No,2024-02-16,No
+CUST0543,31,Month-to-month,DSL,No,Yes,2022-09-25,Yes
+CUST0544,55,Two year,DSL,Yes,No,2022-04-20,No
+CUST0545,11,One year,Fiber optic,Yes,No,2024-11-08,Yes
+CUST0546,62,One year,DSL,No,Yes,2024-07-14,No
+CUST0547,33,Month-to-month,DSL,No,No,2024-11-15,Yes
+CUST0548,64,Month-to-month,DSL,Yes,No,2022-06-18,Yes
+CUST0549,13,Month-to-month,Fiber optic,No,Yes,2023-07-17,Yes
+CUST0550,39,Month-to-month,,No,No,2022-01-25,Yes
+CUST0551,30,One year,DSL,No,No,2023-01-20,Yes
+CUST0552,4,Month-to-month,DSL,Yes,No,2023-11-27,Yes
+CUST0553,3,Month-to-month,DSL,No,No,2024-03-11,Yes
+CUST0554,39,Month-to-month,Fiber optic,Yes,No,2024-03-01,Yes
+CUST0555,48,Month-to-month,Fiber optic,No,No,2025-01-03,Yes
+CUST0556,27,Month-to-month,Fiber optic,Yes,No,2024-07-28,Yes
+CUST0557,32,Month-to-month,Fiber optic,No,No,2023-08-13,Yes
+CUST0558,23,Month-to-month,Fiber optic,No,No,2022-07-15,Yes
+CUST0559,69,Month-to-month,Fiber optic,Yes,No,2022-09-06,No
+CUST0560,58,Month-to-month,DSL,Yes,Yes,2024-08-03,Yes
+CUST0561,33,Month-to-month,DSL,No,No,2023-05-12,No
+CUST0562,3,One year,DSL,No,Yes,2023-07-14,Yes
+CUST0563,7,One year,Fiber optic,Yes,No,2022-01-10,Yes
+CUST0564,26,Month-to-month,,No,No,2022-05-10,Yes
+CUST0565,22,Month-to-month,Fiber optic,No,Yes,2024-03-20,No
+CUST0566,2,Month-to-month,DSL,No,Yes,2024-01-26,Yes
+CUST0567,69,One year,Fiber optic,No,Yes,2024-03-06,No
+CUST0568,41,Two year,DSL,Yes,No,2023-04-22,No
+CUST0569,31,One year,Fiber optic,Yes,Yes,2022-11-07,No
+CUST0570,43,Month-to-month,Fiber optic,Yes,No,2022-02-18,Yes
+CUST0571,32,One year,DSL,No,No,2022-05-13,No
+CUST0572,17,Month-to-month,Fiber optic,Yes,Yes,2024-08-14,Yes
+CUST0573,37,Month-to-month,DSL,No,Yes,2024-02-13,Yes
+CUST0574,20,One year,DSL,No,No,2023-09-07,No
+CUST0575,40,Month-to-month,Fiber optic,Yes,No,2022-11-13,No
+CUST0576,52,Two year,,No,No,2022-05-26,No
+CUST0577,56,Two year,Fiber optic,No,No,2022-04-29,No
+CUST0578,47,One year,Fiber optic,Yes,No,2022-10-29,Yes
+CUST0579,15,One year,,No,No,2022-06-14,No
+CUST0580,39,Month-to-month,Fiber optic,No,No,2022-07-02,Yes
+CUST0581,27,Two year,DSL,Yes,No,2024-05-05,No
+CUST0582,24,One year,DSL,Yes,No,2023-02-16,Yes
+CUST0583,14,Two year,DSL,No,Yes,2023-04-26,Yes
+CUST0584,1,One year,DSL,Yes,Yes,2023-06-29,No
+CUST0585,44,Two year,,No,No,2022-04-28,No
+CUST0586,52,One year,DSL,Yes,No,2023-05-25,No
+CUST0587,25,Month-to-month,,No,No,2022-04-04,No
+CUST0588,11,Month-to-month,,No,No,2022-07-25,Yes
+CUST0589,64,One year,Fiber optic,No,Yes,2024-09-14,No
+CUST0590,56,Two year,,No,No,2023-07-29,Yes
+CUST0591,18,Two year,DSL,No,Yes,2022-05-13,No
+CUST0592,72,Two year,DSL,No,Yes,2023-11-28,No
+CUST0593,41,Two year,DSL,Yes,Yes,2023-10-17,No
+CUST0594,51,Month-to-month,DSL,No,Yes,2023-08-04,Yes
+CUST0595,41,Month-to-month,DSL,No,Yes,2024-02-11,Yes
+CUST0596,29,One year,Fiber optic,Yes,No,2022-11-23,No
+CUST0597,51,Month-to-month,DSL,Yes,No,2022-04-21,No
+CUST0598,62,Month-to-month,DSL,Yes,Yes,2022-07-28,Yes
+CUST0599,13,Month-to-month,,No,No,2023-11-25,Yes
+CUST0600,16,Month-to-month,Fiber optic,Yes,No,2022-07-03,No
+CUST0601,2,Month-to-month,DSL,Yes,Yes,2024-09-09,Yes
+CUST0602,56,Month-to-month,DSL,Yes,No,2025-02-12,No
+CUST0603,27,Two year,DSL,Yes,Yes,2022-09-09,Yes
+CUST0604,5,Month-to-month,DSL,Yes,No,2023-05-24,Yes
+CUST0605,69,Month-to-month,Fiber optic,No,Yes,2022-04-02,Yes
+CUST0606,71,Month-to-month,DSL,No,Yes,2022-12-01,Yes
+CUST0607,27,Month-to-month,,No,No,2024-02-02,Yes
+CUST0608,20,Month-to-month,DSL,Yes,Yes,2025-01-28,Yes
+CUST0609,29,Month-to-month,,No,No,2022-09-10,Yes
+CUST0610,68,Month-to-month,DSL,No,Yes,2024-03-08,Yes
+CUST0611,17,Month-to-month,Fiber optic,Yes,Yes,2022-04-19,No
+CUST0612,54,One year,,No,No,2023-07-19,No
+CUST0613,12,Two year,DSL,Yes,Yes,2022-07-11,Yes
+CUST0614,2,Two year,Fiber optic,Yes,No,2024-12-26,No
+CUST0615,55,One year,DSL,Yes,No,2024-12-08,No
+CUST0616,55,Month-to-month,,No,No,2025-01-09,No
+CUST0617,28,Month-to-month,DSL,No,Yes,2024-09-26,Yes
+CUST0618,1,Month-to-month,DSL,Yes,Yes,2024-12-19,Yes
+CUST0619,33,Month-to-month,DSL,No,Yes,2024-06-17,Yes
+CUST0620,46,Two year,DSL,No,Yes,2023-11-10,No
+CUST0621,54,Month-to-month,Fiber optic,Yes,No,2024-03-29,Yes
+CUST0622,14,One year,DSL,Yes,Yes,2024-05-29,No
+CUST0623,11,One year,DSL,Yes,Yes,2023-06-24,No
+CUST0624,14,One year,DSL,Yes,Yes,2023-07-15,No
+CUST0625,7,Month-to-month,Fiber optic,Yes,Yes,2024-11-10,Yes
+CUST0626,54,Month-to-month,DSL,Yes,Yes,2023-08-08,Yes
+CUST0627,47,Month-to-month,Fiber optic,Yes,No,2024-12-19,Yes
+CUST0628,14,Month-to-month,DSL,Yes,Yes,2022-06-03,No
+CUST0629,20,Month-to-month,Fiber optic,No,No,2022-08-29,No
+CUST0630,36,One year,DSL,Yes,Yes,2024-12-26,No
+CUST0631,50,Month-to-month,DSL,Yes,Yes,2024-11-16,Yes
+CUST0632,35,Month-to-month,DSL,Yes,No,2023-07-23,No
+CUST0633,27,Month-to-month,DSL,No,No,2025-01-29,Yes
+CUST0634,2,One year,,No,No,2025-01-05,Yes
+CUST0635,49,Two year,Fiber optic,Yes,No,2024-03-20,Yes
+CUST0636,12,Month-to-month,Fiber optic,Yes,Yes,2023-01-05,No
+CUST0637,25,Month-to-month,DSL,No,Yes,2022-01-25,Yes
+CUST0638,6,Month-to-month,DSL,Yes,Yes,2023-11-25,No
+CUST0639,21,Month-to-month,DSL,No,Yes,2025-01-20,Yes
+CUST0640,4,Month-to-month,DSL,No,Yes,2022-08-19,Yes
+CUST0641,43,Month-to-month,,No,No,2022-12-31,Yes
+CUST0642,39,One year,Fiber optic,No,No,2022-06-06,No
+CUST0643,19,Month-to-month,Fiber optic,No,Yes,2023-07-25,Yes
+CUST0644,41,Month-to-month,,No,No,2022-10-11,No
+CUST0645,69,Month-to-month,DSL,Yes,No,2023-03-26,No
+CUST0646,72,Month-to-month,DSL,No,No,2022-10-13,Yes
+CUST0647,29,Month-to-month,,No,No,2022-02-23,Yes
+CUST0648,21,Month-to-month,DSL,Yes,Yes,2022-11-03,No
+CUST0649,53,One year,Fiber optic,Yes,No,2022-03-07,No
+CUST0650,59,Month-to-month,,No,No,2024-05-17,No
+CUST0651,28,Month-to-month,DSL,Yes,No,2024-04-09,No
+CUST0652,35,Month-to-month,Fiber optic,No,Yes,2022-08-07,Yes
+CUST0653,26,One year,DSL,Yes,No,2023-09-25,Yes
+CUST0654,51,One year,Fiber optic,Yes,No,2022-07-26,No
+CUST0655,5,Month-to-month,DSL,Yes,Yes,2022-10-16,Yes
+CUST0656,17,Month-to-month,Fiber optic,No,Yes,2024-03-04,Yes
+CUST0657,2,Month-to-month,Fiber optic,Yes,No,2023-08-29,Yes
+CUST0658,59,Month-to-month,DSL,No,Yes,2024-09-26,Yes
+CUST0659,47,Month-to-month,DSL,Yes,No,2022-03-29,No
+CUST0660,14,Month-to-month,DSL,Yes,Yes,2022-07-11,Yes
+CUST0661,11,Month-to-month,,No,No,2024-04-02,Yes
+CUST0662,61,Month-to-month,Fiber optic,No,Yes,2022-03-06,No
+CUST0663,56,Two year,DSL,Yes,No,2022-06-21,Yes
+CUST0664,68,Month-to-month,DSL,Yes,Yes,2023-09-01,Yes
+CUST0665,56,Month-to-month,DSL,Yes,Yes,2022-10-24,Yes
+CUST0666,20,Two year,DSL,No,Yes,2023-06-23,No
+CUST0667,58,One year,DSL,Yes,No,2024-02-13,No
+CUST0668,47,Month-to-month,Fiber optic,Yes,No,2024-04-20,Yes
+CUST0669,23,Month-to-month,Fiber optic,Yes,No,2024-06-14,Yes
+CUST0670,14,Month-to-month,,No,No,2025-01-20,Yes
+CUST0671,28,Month-to-month,DSL,Yes,No,2024-08-08,Yes
+CUST0672,48,One year,DSL,No,No,2024-04-29,No
+CUST0673,20,One year,Fiber optic,No,No,2024-05-30,Yes
+CUST0674,55,Month-to-month,,No,No,2024-11-25,Yes
+CUST0675,51,One year,DSL,Yes,No,2024-06-14,Yes
+CUST0676,49,Month-to-month,,No,No,2023-01-18,Yes
+CUST0677,49,One year,DSL,Yes,Yes,2022-07-31,Yes
+CUST0678,24,Month-to-month,DSL,Yes,No,2024-04-27,Yes
+CUST0679,41,One year,DSL,No,Yes,2022-03-06,Yes
+CUST0680,67,One year,DSL,Yes,Yes,2023-03-19,No
+CUST0681,11,One year,DSL,No,Yes,2025-02-03,No
+CUST0682,33,Month-to-month,Fiber optic,No,No,2023-10-01,Yes
+CUST0683,35,One year,Fiber optic,No,Yes,2022-05-12,No
+CUST0684,68,Month-to-month,DSL,No,No,2022-05-29,Yes
+CUST0685,41,One year,DSL,No,Yes,2023-03-11,No
+CUST0686,54,One year,Fiber optic,Yes,Yes,2022-04-06,No
+CUST0687,50,Month-to-month,DSL,Yes,No,2024-04-04,Yes
+CUST0688,61,Month-to-month,Fiber optic,No,No,2025-02-13,No
+CUST0689,16,One year,DSL,Yes,Yes,2023-10-24,No
+CUST0690,48,One year,DSL,Yes,No,2022-04-09,No
+CUST0691,22,Two year,DSL,No,Yes,2024-04-26,No
+CUST0692,63,Two year,Fiber optic,Yes,Yes,2022-06-19,Yes
+CUST0693,10,Month-to-month,DSL,Yes,No,2022-08-03,Yes
+CUST0694,40,One year,Fiber optic,Yes,Yes,2024-07-15,No
+CUST0695,55,Month-to-month,Fiber optic,Yes,Yes,2022-08-14,Yes
+CUST0696,68,Month-to-month,,No,No,2022-11-05,Yes
+CUST0697,13,Month-to-month,,No,No,2022-12-28,Yes
+CUST0698,7,One year,DSL,Yes,Yes,2024-12-25,Yes
+CUST0699,51,Month-to-month,Fiber optic,No,No,2023-12-13,Yes
+CUST0700,65,Two year,Fiber optic,Yes,Yes,2023-01-19,No
+CUST0701,43,Month-to-month,Fiber optic,Yes,Yes,2022-01-03,Yes
+CUST0702,38,One year,DSL,Yes,Yes,2023-11-19,No
+CUST0703,47,Month-to-month,DSL,No,No,2022-02-12,Yes
+CUST0704,4,Month-to-month,,No,No,2023-02-01,No
+CUST0705,23,Month-to-month,Fiber optic,No,No,2023-01-26,Yes
+CUST0706,59,Month-to-month,DSL,Yes,Yes,2024-08-13,No
+CUST0707,63,Month-to-month,DSL,Yes,Yes,2022-04-19,Yes
+CUST0708,33,Month-to-month,Fiber optic,Yes,Yes,2023-02-07,Yes
+CUST0709,32,One year,DSL,Yes,No,2022-12-21,No
+CUST0710,26,Month-to-month,DSL,No,Yes,2024-08-02,Yes
+CUST0711,68,Month-to-month,,No,No,2024-05-25,Yes
+CUST0712,54,Month-to-month,,No,No,2024-02-04,Yes
+CUST0713,51,Month-to-month,DSL,No,Yes,2022-08-08,Yes
+CUST0714,16,One year,Fiber optic,Yes,Yes,2024-10-11,Yes
+CUST0715,40,One year,Fiber optic,Yes,Yes,2022-09-05,No
+CUST0716,8,Two year,DSL,Yes,Yes,2024-06-18,No
+CUST0717,19,One year,DSL,Yes,No,2022-07-24,No
+CUST0718,14,Month-to-month,DSL,No,No,2023-09-13,Yes
+CUST0719,18,Month-to-month,DSL,Yes,No,2023-03-08,Yes
+CUST0720,20,Month-to-month,DSL,Yes,No,2024-03-17,Yes
+CUST0721,65,One year,DSL,No,No,2022-05-19,Yes
+CUST0722,61,Month-to-month,Fiber optic,Yes,Yes,2024-02-26,Yes
+CUST0723,5,One year,Fiber optic,Yes,Yes,2024-02-13,Yes
+CUST0724,57,One year,Fiber optic,No,Yes,2022-07-17,Yes
+CUST0725,70,Two year,Fiber optic,No,Yes,2024-08-28,Yes
+CUST0726,9,Month-to-month,Fiber optic,Yes,Yes,2022-08-30,Yes
+CUST0727,38,Two year,Fiber optic,Yes,Yes,2023-05-10,No
+CUST0728,15,Month-to-month,,No,No,2024-05-13,Yes
+CUST0729,43,Two year,Fiber optic,Yes,No,2022-03-14,No
+CUST0730,62,Two year,DSL,Yes,No,2024-06-02,No
+CUST0731,4,One year,Fiber optic,No,Yes,2024-02-12,No
+CUST0732,16,Two year,DSL,Yes,No,2023-04-21,Yes
+CUST0733,2,Two year,DSL,Yes,Yes,2023-10-06,Yes
+CUST0734,51,Month-to-month,DSL,No,Yes,2024-01-02,No
+CUST0735,71,Month-to-month,Fiber optic,No,No,2022-04-21,Yes
+CUST0736,27,Two year,Fiber optic,No,Yes,2022-10-18,Yes
+CUST0737,3,Month-to-month,DSL,No,No,2023-07-26,Yes
+CUST0738,6,Month-to-month,Fiber optic,Yes,No,2022-02-23,Yes
+CUST0739,28,One year,Fiber optic,No,No,2022-04-27,No
+CUST0740,60,Month-to-month,Fiber optic,No,Yes,2023-05-03,Yes
+CUST0741,70,Month-to-month,DSL,No,No,2022-01-26,Yes
+CUST0742,60,Month-to-month,DSL,No,No,2024-04-16,Yes
+CUST0743,57,Month-to-month,DSL,No,Yes,2022-04-12,Yes
+CUST0744,41,Month-to-month,DSL,No,No,2023-12-25,Yes
+CUST0745,57,Month-to-month,DSL,No,No,2023-08-03,Yes
+CUST0746,48,Month-to-month,Fiber optic,Yes,No,2022-02-22,Yes
+CUST0747,49,One year,Fiber optic,No,Yes,2023-04-05,Yes
+CUST0748,16,One year,DSL,No,No,2023-08-24,No
+CUST0749,41,One year,DSL,No,No,2022-06-06,No
+CUST0750,17,Two year,,No,No,2023-06-18,No
+CUST0751,19,Month-to-month,Fiber optic,Yes,No,2023-06-24,No
+CUST0752,56,Month-to-month,DSL,No,No,2025-02-14,Yes
+CUST0753,14,Two year,Fiber optic,No,No,2024-06-11,Yes
+CUST0754,1,Month-to-month,Fiber optic,No,No,2023-07-27,Yes
+CUST0755,67,Two year,Fiber optic,No,No,2023-01-01,No
+CUST0756,67,Month-to-month,DSL,No,No,2024-09-23,Yes
+CUST0757,36,Month-to-month,Fiber optic,Yes,Yes,2025-01-10,Yes
+CUST0758,27,Month-to-month,DSL,No,Yes,2022-08-13,No
+CUST0759,12,Two year,Fiber optic,Yes,No,2023-04-01,No
+CUST0760,66,One year,Fiber optic,Yes,No,2024-12-03,Yes
+CUST0761,2,Month-to-month,Fiber optic,Yes,Yes,2023-01-19,Yes
+CUST0762,56,Month-to-month,DSL,Yes,Yes,2024-02-18,No
+CUST0763,30,Two year,DSL,No,No,2023-03-25,Yes
+CUST0764,42,Month-to-month,DSL,No,Yes,2022-09-20,No
+CUST0765,31,Month-to-month,DSL,No,Yes,2023-10-13,Yes
+CUST0766,63,One year,Fiber optic,No,No,2022-12-08,Yes
+CUST0767,70,Month-to-month,Fiber optic,Yes,No,2025-02-06,Yes
+CUST0768,69,Month-to-month,DSL,Yes,No,2023-05-25,No
+CUST0769,51,One year,DSL,Yes,Yes,2022-03-11,Yes
+CUST0770,35,Two year,Fiber optic,No,Yes,2022-11-07,Yes
+CUST0771,42,Month-to-month,DSL,No,Yes,2024-08-23,Yes
+CUST0772,37,Two year,DSL,Yes,No,2025-01-24,No
+CUST0773,30,Month-to-month,DSL,No,No,2022-06-21,Yes
+CUST0774,19,Month-to-month,Fiber optic,Yes,Yes,2023-09-30,No
+CUST0775,35,One year,Fiber optic,No,No,2024-08-02,No
+CUST0776,55,One year,Fiber optic,Yes,Yes,2022-08-21,Yes
+CUST0777,71,Month-to-month,DSL,No,No,2024-02-01,Yes
+CUST0778,48,Month-to-month,DSL,No,Yes,2024-08-28,Yes
+CUST0779,25,Month-to-month,DSL,Yes,Yes,2022-05-17,Yes
+CUST0780,36,Month-to-month,DSL,No,No,2023-06-06,Yes
+CUST0781,28,Month-to-month,DSL,No,No,2023-07-22,No
+CUST0782,1,One year,DSL,Yes,Yes,2023-10-25,Yes
+CUST0783,61,Month-to-month,DSL,No,No,2023-12-29,Yes
+CUST0784,36,One year,Fiber optic,No,No,2024-06-10,No
+CUST0785,45,One year,Fiber optic,Yes,No,2022-01-22,Yes
+CUST0786,13,Two year,Fiber optic,Yes,No,2024-09-07,No
+CUST0787,4,Two year,,No,No,2024-08-27,No
+CUST0788,4,One year,Fiber optic,Yes,Yes,2022-09-02,Yes
+CUST0789,3,Month-to-month,Fiber optic,Yes,No,2024-04-05,Yes
+CUST0790,35,Month-to-month,DSL,Yes,No,2022-01-07,Yes
+CUST0791,60,Month-to-month,DSL,Yes,Yes,2022-02-11,No
+CUST0792,32,Month-to-month,,No,No,2022-09-29,Yes
+CUST0793,41,Month-to-month,DSL,Yes,Yes,2024-06-19,Yes
+CUST0794,22,Month-to-month,DSL,Yes,No,2023-08-15,Yes
+CUST0795,66,One year,DSL,Yes,Yes,2024-08-31,Yes
+CUST0796,14,One year,DSL,No,No,2022-07-25,Yes
+CUST0797,3,Month-to-month,Fiber optic,No,No,2024-02-04,Yes
+CUST0798,65,Month-to-month,DSL,No,Yes,2023-09-08,No
+CUST0799,43,One year,DSL,Yes,No,2022-01-02,No
+CUST0800,31,Two year,Fiber optic,Yes,No,2022-07-24,No
+CUST0801,32,One year,DSL,Yes,No,2024-05-19,No
+CUST0802,23,One year,DSL,Yes,No,2022-10-10,No
+CUST0803,24,Month-to-month,DSL,No,Yes,2023-01-03,Yes
+CUST0804,13,One year,Fiber optic,Yes,No,2024-07-20,Yes
+CUST0805,55,Month-to-month,Fiber optic,No,No,2024-12-31,No
+CUST0806,11,Month-to-month,,No,No,2024-07-20,Yes
+CUST0807,47,Month-to-month,DSL,No,No,2022-02-18,Yes
+CUST0808,39,One year,DSL,Yes,No,2022-07-13,Yes
+CUST0809,32,Two year,,No,No,2022-03-25,Yes
+CUST0810,66,Two year,,No,No,2022-02-15,Yes
+CUST0811,15,One year,,No,No,2023-05-15,No
+CUST0812,24,Month-to-month,Fiber optic,Yes,No,2022-02-08,No
+CUST0813,29,Month-to-month,DSL,No,No,2023-11-05,Yes
+CUST0814,45,One year,Fiber optic,No,Yes,2024-03-09,Yes
+CUST0815,45,Month-to-month,Fiber optic,No,No,2024-08-15,Yes
+CUST0816,3,One year,Fiber optic,Yes,No,2022-09-10,Yes
+CUST0817,21,One year,,No,No,2023-03-22,No
+CUST0818,41,Month-to-month,DSL,No,No,2024-07-09,Yes
+CUST0819,60,One year,DSL,No,No,2023-04-05,Yes
+CUST0820,42,One year,Fiber optic,Yes,No,2024-03-08,No
+CUST0821,31,Month-to-month,,No,No,2022-03-05,Yes
+CUST0822,23,Two year,DSL,No,Yes,2022-05-24,Yes
+CUST0823,10,One year,Fiber optic,Yes,Yes,2022-05-03,Yes
+CUST0824,52,One year,Fiber optic,No,Yes,2022-08-17,No
+CUST0825,62,Month-to-month,Fiber optic,Yes,No,2023-05-17,Yes
+CUST0826,34,Month-to-month,Fiber optic,Yes,No,2025-02-28,Yes
+CUST0827,57,One year,Fiber optic,Yes,Yes,2023-06-11,No
+CUST0828,2,Month-to-month,Fiber optic,No,No,2023-12-06,Yes
+CUST0829,63,One year,DSL,No,No,2023-12-03,Yes
+CUST0830,26,Month-to-month,,No,No,2024-12-09,No
+CUST0831,13,Two year,DSL,Yes,Yes,2023-05-17,No
+CUST0832,59,Month-to-month,DSL,No,Yes,2022-05-11,No
+CUST0833,62,Month-to-month,Fiber optic,No,Yes,2022-06-20,Yes
+CUST0834,2,Month-to-month,DSL,No,Yes,2024-07-23,No
+CUST0835,23,Month-to-month,DSL,No,No,2023-07-18,No
+CUST0836,1,Month-to-month,DSL,Yes,Yes,2023-09-16,Yes
+CUST0837,14,One year,Fiber optic,No,No,2023-03-07,Yes
+CUST0838,22,Two year,DSL,No,No,2023-06-23,No
+CUST0839,46,One year,DSL,No,No,2022-04-24,No
+CUST0840,26,Month-to-month,DSL,No,Yes,2023-10-30,Yes
+CUST0841,14,Month-to-month,Fiber optic,No,Yes,2024-09-24,Yes
+CUST0842,44,Month-to-month,,No,No,2022-06-01,Yes
+CUST0843,39,Month-to-month,DSL,No,No,2022-02-14,Yes
+CUST0844,58,One year,DSL,Yes,No,2023-06-15,Yes
+CUST0845,51,One year,Fiber optic,Yes,No,2022-03-07,No
+CUST0846,43,One year,Fiber optic,Yes,Yes,2022-06-29,No
+CUST0847,56,One year,Fiber optic,Yes,No,2023-11-27,No
+CUST0848,38,Month-to-month,DSL,Yes,No,2023-04-02,No
+CUST0849,46,Two year,Fiber optic,Yes,Yes,2022-02-23,No
+CUST0850,42,Two year,Fiber optic,Yes,No,2023-04-23,No
+CUST0851,49,Month-to-month,Fiber optic,Yes,No,2023-02-11,Yes
+CUST0852,67,Month-to-month,DSL,No,No,2023-01-27,Yes
+CUST0853,15,Two year,DSL,No,No,2024-01-09,No
+CUST0854,11,One year,Fiber optic,Yes,No,2022-04-03,Yes
+CUST0855,61,One year,Fiber optic,No,No,2024-05-08,Yes
+CUST0856,15,One year,DSL,No,No,2023-10-20,Yes
+CUST0857,19,Two year,DSL,Yes,Yes,2023-04-02,Yes
+CUST0858,69,Month-to-month,Fiber optic,Yes,No,2023-06-11,Yes
+CUST0859,64,One year,DSL,Yes,Yes,2022-06-18,No
+CUST0860,29,Month-to-month,DSL,No,No,2024-05-14,Yes
+CUST0861,50,One year,,No,No,2023-05-03,Yes
+CUST0862,52,Month-to-month,Fiber optic,No,Yes,2024-11-19,No
+CUST0863,63,One year,DSL,No,No,2022-02-22,No
+CUST0864,71,One year,DSL,No,No,2024-10-30,Yes
+CUST0865,29,One year,Fiber optic,Yes,Yes,2023-04-17,No
+CUST0866,22,One year,DSL,Yes,No,2024-03-31,No
+CUST0867,18,One year,DSL,No,Yes,2022-05-17,Yes
+CUST0868,32,Month-to-month,DSL,Yes,Yes,2023-07-20,Yes
+CUST0869,57,Month-to-month,DSL,Yes,No,2024-08-22,Yes
+CUST0870,10,Two year,Fiber optic,No,Yes,2022-08-20,No
+CUST0871,38,Month-to-month,,No,No,2024-01-13,Yes
+CUST0872,8,One year,DSL,No,No,2023-05-30,No
+CUST0873,64,Month-to-month,DSL,No,No,2024-02-23,Yes
+CUST0874,13,Month-to-month,DSL,No,No,2024-06-20,No
+CUST0875,4,Month-to-month,Fiber optic,No,Yes,2022-02-28,Yes
+CUST0876,32,Month-to-month,DSL,No,Yes,2025-01-25,No
+CUST0877,12,Month-to-month,Fiber optic,Yes,No,2022-07-05,No
+CUST0878,34,Two year,DSL,No,No,2023-10-24,Yes
+CUST0879,72,Month-to-month,Fiber optic,Yes,Yes,2024-04-08,No
+CUST0880,50,Month-to-month,Fiber optic,No,Yes,2022-03-25,Yes
+CUST0881,29,Month-to-month,Fiber optic,Yes,Yes,2022-02-12,No
+CUST0882,24,One year,Fiber optic,No,No,2023-06-24,No
+CUST0883,46,Month-to-month,DSL,Yes,Yes,2024-11-05,No
+CUST0884,45,One year,Fiber optic,Yes,No,2024-07-31,No
+CUST0885,58,Month-to-month,DSL,Yes,Yes,2023-07-20,Yes
+CUST0886,18,Two year,DSL,No,No,2024-11-06,No
+CUST0887,7,One year,DSL,Yes,Yes,2023-02-03,Yes
+CUST0888,64,One year,DSL,No,No,2024-08-29,Yes
+CUST0889,56,Two year,DSL,No,Yes,2022-06-17,No
+CUST0890,8,One year,DSL,Yes,Yes,2025-02-27,Yes
+CUST0891,69,Month-to-month,Fiber optic,Yes,No,2022-12-30,Yes
+CUST0892,16,One year,DSL,No,Yes,2022-07-24,Yes
+CUST0893,71,One year,,No,No,2023-05-20,No
+CUST0894,46,Month-to-month,DSL,Yes,Yes,2024-12-15,No
+CUST0895,42,Month-to-month,DSL,No,No,2022-02-18,Yes
+CUST0896,37,One year,Fiber optic,Yes,Yes,2025-01-16,Yes
+CUST0897,50,Month-to-month,DSL,No,Yes,2022-04-02,No
+CUST0898,27,Month-to-month,Fiber optic,Yes,No,2023-08-18,Yes
+CUST0899,50,One year,Fiber optic,Yes,Yes,2023-06-13,No
+CUST0900,35,Month-to-month,Fiber optic,No,No,2024-09-26,Yes
+CUST0901,29,Month-to-month,DSL,No,Yes,2023-06-10,No
+CUST0902,34,Month-to-month,Fiber optic,Yes,Yes,2022-09-18,Yes
+CUST0903,50,Month-to-month,Fiber optic,Yes,No,2022-10-20,Yes
+CUST0904,27,One year,DSL,Yes,No,2022-12-26,Yes
+CUST0905,38,Month-to-month,Fiber optic,No,No,2023-05-19,Yes
+CUST0906,15,One year,Fiber optic,Yes,No,2022-08-01,No
+CUST0907,16,Two year,DSL,Yes,Yes,2024-03-01,No
+CUST0908,63,One year,,No,No,2022-11-10,Yes
+CUST0909,33,Two year,DSL,No,Yes,2025-01-13,No
+CUST0910,52,Month-to-month,Fiber optic,No,No,2024-03-27,Yes
+CUST0911,25,Two year,Fiber optic,No,No,2024-04-16,Yes
+CUST0912,58,Month-to-month,Fiber optic,No,Yes,2022-11-17,Yes
+CUST0913,27,Month-to-month,DSL,Yes,No,2022-11-05,Yes
+CUST0914,68,One year,Fiber optic,Yes,Yes,2022-04-19,No
+CUST0915,20,Two year,DSL,No,No,2023-08-17,Yes
+CUST0916,16,Month-to-month,DSL,No,No,2022-08-21,No
+CUST0917,49,Month-to-month,Fiber optic,No,No,2022-02-10,No
+CUST0918,9,Month-to-month,Fiber optic,Yes,Yes,2023-02-08,No
+CUST0919,64,Month-to-month,DSL,Yes,No,2023-07-28,No
+CUST0920,31,One year,,No,No,2024-07-27,No
+CUST0921,3,Month-to-month,DSL,No,Yes,2024-02-08,Yes
+CUST0922,44,Month-to-month,DSL,Yes,No,2024-07-10,No
+CUST0923,17,One year,DSL,No,Yes,2022-06-28,No
+CUST0924,10,Month-to-month,Fiber optic,No,No,2022-09-07,Yes
+CUST0925,12,Month-to-month,DSL,Yes,Yes,2023-01-30,Yes
+CUST0926,37,One year,Fiber optic,No,Yes,2023-02-09,Yes
+CUST0927,10,Month-to-month,Fiber optic,Yes,Yes,2023-08-31,Yes
+CUST0928,45,One year,Fiber optic,No,No,2022-05-09,No
+CUST0929,58,Month-to-month,DSL,No,Yes,2023-10-16,Yes
+CUST0930,63,Month-to-month,DSL,Yes,Yes,2024-08-03,Yes
+CUST0931,58,Month-to-month,DSL,Yes,Yes,2022-11-02,Yes
+CUST0932,24,Month-to-month,DSL,No,No,2022-11-21,Yes
+CUST0933,64,Month-to-month,DSL,Yes,No,2023-10-25,No
+CUST0934,28,Month-to-month,DSL,Yes,No,2024-05-28,Yes
+CUST0935,17,Month-to-month,DSL,No,No,2023-10-31,No
+CUST0936,36,Month-to-month,DSL,Yes,Yes,2023-04-14,No
+CUST0937,61,Two year,Fiber optic,No,Yes,2024-10-02,Yes
+CUST0938,58,Month-to-month,Fiber optic,Yes,No,2023-05-21,Yes
+CUST0939,19,One year,DSL,No,Yes,2022-09-04,Yes
+CUST0940,49,Month-to-month,DSL,No,Yes,2024-05-13,Yes
+CUST0941,49,Month-to-month,Fiber optic,Yes,No,2024-07-17,Yes
+CUST0942,42,Month-to-month,DSL,No,Yes,2024-03-21,Yes
+CUST0943,6,Two year,Fiber optic,Yes,No,2022-11-07,Yes
+CUST0944,44,Month-to-month,DSL,No,Yes,2024-03-21,Yes
+CUST0945,15,One year,DSL,Yes,Yes,2023-04-07,No
+CUST0946,41,Month-to-month,Fiber optic,Yes,No,2024-04-29,Yes
+CUST0947,63,Month-to-month,Fiber optic,No,Yes,2022-01-16,No
+CUST0948,50,Month-to-month,Fiber optic,No,Yes,2022-09-02,Yes
+CUST0949,24,Month-to-month,DSL,Yes,Yes,2023-09-04,No
+CUST0950,60,Month-to-month,Fiber optic,No,Yes,2023-03-20,No
+CUST0951,42,Month-to-month,Fiber optic,No,No,2023-05-24,Yes
+CUST0952,36,Two year,DSL,Yes,Yes,2023-01-26,No
+CUST0953,3,Month-to-month,DSL,Yes,No,2023-02-24,Yes
+CUST0954,23,Month-to-month,DSL,No,No,2022-05-10,Yes
+CUST0955,5,Month-to-month,DSL,Yes,Yes,2023-07-30,No
+CUST0956,35,Two year,Fiber optic,Yes,Yes,2024-06-10,No
+CUST0957,47,Month-to-month,Fiber optic,Yes,No,2025-02-02,Yes
+CUST0958,52,Month-to-month,Fiber optic,Yes,No,2024-06-03,Yes
+CUST0959,70,Two year,DSL,Yes,No,2022-11-23,No
+CUST0960,51,Month-to-month,DSL,Yes,Yes,2025-02-01,No
+CUST0961,15,Month-to-month,DSL,No,No,2024-04-15,No
+CUST0962,25,One year,,No,No,2022-05-28,No
+CUST0963,13,Two year,DSL,No,Yes,2022-05-27,Yes
+CUST0964,39,Month-to-month,DSL,No,Yes,2024-10-20,Yes
+CUST0965,69,One year,Fiber optic,No,No,2024-09-25,No
+CUST0966,13,Month-to-month,DSL,No,Yes,2024-07-13,Yes
+CUST0967,57,Month-to-month,DSL,No,Yes,2024-11-24,Yes
+CUST0968,43,Month-to-month,,No,No,2023-05-26,Yes
+CUST0969,39,Month-to-month,Fiber optic,No,Yes,2022-08-26,Yes
+CUST0970,64,Month-to-month,DSL,No,Yes,2024-06-12,Yes
+CUST0971,52,Month-to-month,,No,No,2022-06-26,Yes
+CUST0972,34,Month-to-month,Fiber optic,No,Yes,2022-10-29,Yes
+CUST0973,2,Month-to-month,Fiber optic,Yes,No,2023-05-15,No
+CUST0974,28,Month-to-month,Fiber optic,Yes,Yes,2022-10-25,No
+CUST0975,53,One year,DSL,No,No,2023-10-19,No
+CUST0976,29,One year,Fiber optic,No,Yes,2024-10-15,No
+CUST0977,19,One year,DSL,No,No,2023-12-01,Yes
+CUST0978,63,Month-to-month,Fiber optic,Yes,No,2023-12-03,Yes
+CUST0979,37,Month-to-month,,No,No,2023-01-27,Yes
+CUST0980,34,Month-to-month,DSL,Yes,No,2025-01-16,No
+CUST0981,38,One year,Fiber optic,No,Yes,2024-02-07,Yes
+CUST0982,44,Month-to-month,DSL,No,No,2023-06-06,No
+CUST0983,54,Month-to-month,DSL,No,Yes,2022-09-02,Yes
+CUST0984,36,Month-to-month,DSL,Yes,No,2022-05-03,Yes
+CUST0985,31,Month-to-month,Fiber optic,No,No,2025-02-07,Yes
+CUST0986,70,One year,DSL,No,No,2024-04-12,Yes
+CUST0987,14,Month-to-month,DSL,No,No,2022-06-17,Yes
+CUST0988,70,One year,Fiber optic,No,No,2024-03-05,No
+CUST0989,49,Month-to-month,DSL,No,No,2023-04-18,Yes
+CUST0990,9,Month-to-month,DSL,No,No,2024-07-01,No
+CUST0991,34,Month-to-month,Fiber optic,Yes,Yes,2023-04-14,Yes
+CUST0992,11,Month-to-month,DSL,Yes,No,2023-04-15,Yes
+CUST0993,7,Month-to-month,Fiber optic,Yes,No,2022-12-10,Yes
+CUST0994,13,Month-to-month,Fiber optic,No,No,2023-01-18,Yes
+CUST0995,3,Month-to-month,DSL,Yes,Yes,2023-05-11,No
+CUST0996,59,Month-to-month,DSL,Yes,Yes,2023-08-12,Yes
+CUST0997,60,Two year,DSL,No,No,2024-10-27,No
+CUST0998,15,One year,DSL,No,Yes,2022-02-02,Yes
+CUST0999,39,Month-to-month,,No,No,2024-03-28,Yes
+CUST1000,7,Month-to-month,Fiber optic,Yes,No,2024-03-02,Yes
